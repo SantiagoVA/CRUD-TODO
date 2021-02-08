@@ -25,4 +25,4 @@ npm install
 npm run dev
 ```
 
-And this is every, the project will be running and listening in the port ***3000*** so the direction that you need go is [http://localhost/3000](http://localhost/3000)
+And this is every, the project will be running and listening in the port ***3000*** so the direction that you need go is [http://localhost:3000](http://localhost:3000)
